@@ -1,0 +1,12 @@
+Index.html
+o A homepage that introduces your website. Explain to the user what they
+are going to see by coming here.
+o This page tells in brief about the non-profit organization, ALOW
+ It's a charity organization in Ottawa, Canada. We would like to see
+this institution as an international organization in near future.
+o This page also tells the world about the vision of ALOW.
+ Helping helpless together.
+ Providing assistance to Less fortunate, Orphans and Widows
+ Campaign
+ Funding
+ Fund raising

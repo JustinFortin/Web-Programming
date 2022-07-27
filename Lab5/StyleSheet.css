@@ -1,0 +1,53 @@
+html {
+	font: 10px Times New Roman, Serif;
+	background-color:white;
+	margin: 5;
+	font-size: 100%;
+	vertical-align: center;
+}
+
+body {
+    font-family: TimesNewRoman, Times New Roman, Times, serif;
+}
+
+header {
+	border: solid 2pt black;
+	overflow: auto;
+	background-color: sandybrown;
+}
+
+#menu {
+	border-left: solid 2pt black;
+	border-top: solid 2pt black;
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	float: right;
+	background-color: burlywood;
+	font-size: 25px;
+}
+
+div#content {
+    border: solid 2pt black;
+    border-top: 0px;
+    border-bottom: 0px;
+    background-color: beige;
+    text-align: center;
+}
+
+div#footer {
+	border: solid 2pt black;
+    background-color:sandybrown;
+    position: sticky;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+div#container {
+    height: 100%;
+    width: 100%;
+    background: beige;
+    position: absolute;
+}
+.tab { margin-left: 50px; }

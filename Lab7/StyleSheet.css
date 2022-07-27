@@ -1,0 +1,52 @@
+html {
+	font: 10px Times New Roman, Serif;
+	background-color:white;
+	margin: 5;
+	font-size: 100%;
+	vertical-align: center;
+}
+
+body {
+	font-family: TimesNewRoman, Times New Roman, Times, serif;
+}
+
+header {
+	border: solid 2pt black;
+	overflow: auto;
+	background-color: lavender;
+}
+
+#menu {
+	border-left: solid 2pt black;
+	border-top: solid 2pt black;
+	height: 50%;
+	width: 25%;
+	text-align: center;
+	float: right;
+	background-color: plum;
+	font-size: 25px;
+}
+
+div#content {
+    border: solid 2pt black;
+    border-top: 0px;
+    border-bottom: 0px;
+	background-color: thistle;
+}
+div#footer {
+	border: solid 2pt black;
+    background-color:lavender;
+    width: 100%;
+	text-align: center;
+}
+footer{
+	position: absolute;
+	height: 0;
+}
+div#container {
+    height: 100%;
+    width: 100%;
+    background: thistle;
+}
+.tab { margin-left: 50px; }
+

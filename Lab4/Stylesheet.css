@@ -1,0 +1,42 @@
+#html {
+  font-family: "Times New Roman", Times, serif;
+  background-color: white;
+  font-size: 10px;
+
+}
+dd{
+  margin: 15px;
+}
+#header {
+  color: rgb(29, 250, 228);
+}
+#menu {
+  background-color: rgb(29, 250, 228);
+  color:black;
+}
+#footer {
+  color: black;
+}
+
+h3 {
+  color: green;
+}
+h4 {
+  color: red;
+}
+p {
+  padding: 15px;
+}
+td,thead{
+  
+  border-style: solid;
+  border-width: 2px;
+}
+table{
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  width: 50%;
+  height: 200pt;
+}
+
